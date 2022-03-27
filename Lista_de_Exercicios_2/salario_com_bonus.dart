@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-    String nome = stdin.readLineSync()!;
+    // String nome = stdin.readLineSync()!;
     double salarioFixo = double.parse(stdin.readLineSync()!);
     double totalDeVendasNoMes = double.parse(stdin.readLineSync()!);
     
